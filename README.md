@@ -1,7 +1,7 @@
 # ASCIItokiocolor
 
 Для использования нужно написать свой конфиг в .txt файле в формате:
-letter *space* color
+letter * *space* * color
 
 Небольшой конфиг рисунка ниже:
 
@@ -20,3 +20,4 @@ d blue
 b blue
 Y dark
 ```
+![Image alt](https://github.com/sxaxq/ASCIItokiocolor/raw/master/image.png)
