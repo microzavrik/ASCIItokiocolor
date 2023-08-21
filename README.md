@@ -21,3 +21,12 @@ b blue
 Y dark
 ```
 ![Image alt](https://github.com/sxaxq/ASCIItokiocolor/raw/master/image.png)
+
+## Компиляция:
+```
+clang++ -std=c++17 vulkanrender.cc -o vulkanrender.exe
+```
+## Использование
+```
+vulkanrender.exe <cfg_path> <image_path>
+```
